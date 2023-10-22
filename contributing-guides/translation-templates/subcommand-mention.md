@@ -10,6 +10,7 @@ This file contains the translation templates of this notice.
 [bn](#bn) •
 [bs](#bs) •
 [ca](#ca) •
+[cs](#cs) •
 [da](#da) •
 [de](#de) •
 [es](#es) •
@@ -75,6 +76,14 @@ Not translated yet.
 
 ```markdown
 Alguns subcomandaments com `example command` tenen la seva pròpia documentació.
+```
+
+---
+
+### cs
+
+```markdown
+Některé dílčí příkazy jako je `example command` mají svou vlastní dokumentaci.
 ```
 
 ---
@@ -153,7 +162,9 @@ Alcuni comandi aggiuntivi, come `example command`, hanno la propria documentazio
 
 ### ko
 
-Not translated yet.
+```markdown
+`example command`와 같은 일부 하위 명령에는 자체 사용 설명서가 있습니다.
+```
 
 ---
 
